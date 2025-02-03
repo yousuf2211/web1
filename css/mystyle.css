@@ -1,0 +1,216 @@
+.list{
+    display: flex;
+    justify-content: center;
+    align-items:last baseline;
+    margin-right: -70%;
+    gap: 25px;
+    color: #ffffff;
+    margin-top: -2.5%;
+
+    
+    
+    
+}
+.list a{
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffffff;
+    
+}
+/*nav*/
+/*haddie s*/
+.hade{
+    background-color: black;
+    padding: 20px;
+
+
+}
+/*haddie e*/
+.all .hade .logo a{
+    color: #ffffff;
+    text-decoration: none;
+    font-family:monospace;
+    font-size: 25px;
+}
+.all{
+    background-image: url('/img/v1016-b-09.jpg');
+}
+.all .content .k{
+    margin: 50px;
+    width: 250px;
+    margin-top: 100px;
+}
+.all .ca button{
+    border: none;
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 10px 5px;
+  border-radius: 10px;
+  font-size: 16px;
+  margin-left: 5%;
+  margin-top: 20px;
+
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  background-color: rgb(0, 179, 179);
+  font-family: Arial, Helvetica, sans-serif;
+
+}
+.all .ca p {
+    color: #ffffff;
+    margin-right: 600px;
+    margin-left: 50px;
+    
+    
+}
+.all .ca h1{
+    color: #ffffff;
+    margin-left: 30px;
+    bottom: -500px;
+
+}
+.fs{
+    color: #00885f;
+    margin-right: 500px;
+    
+    
+}
+.all .ca .j{
+    padding: 80px;
+}
+.all img{
+    width: 400px;
+    margin-left: 500px;
+    margin-top: -450px;
+}
+.all .ca .outset{
+    width:990px;
+    height: 7px;
+    background-color: rgb(1, 88, 88);
+    margin-top: 50px;
+    border-color: black;
+}
+.all .content .ab {
+    color: #ffffff;
+    
+    margin-left: 400px;
+    margin-right: 55px;
+    padding-bottom: 800px;
+    margin-top: -350px;
+
+    
+}
+.all .content .sss{
+    margin-left: -400px;
+    width:990px;
+    height: 7px;
+    background-color: rgb(1, 88, 88);
+    margin-top: 180px;
+    border-color: black;
+
+
+
+}
+.all .content .cc .c1{
+    position: relative;
+    top: -650px;
+    background-color: black;
+    color: #ffffff;
+    padding-left: 80px;
+    padding-right: 80px;
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    box-shadow: 5px 5px 15px rgba(50, 51, 80, 0.80);
+    border-radius: 10px;
+    
+}
+.all .content .cc .c2{
+    position: relative;
+    top: -600px;
+    background-color: black;
+    color: #ffffff;
+    padding-left: 80px;
+    padding-right: 80px;
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    box-shadow: 5px 5px 15px rgba(50, 51, 80, 0.80);
+    border-radius: 10px;
+
+    
+    
+}
+.all .cc .fff{
+    background-color: black;
+    color: #ffffff;
+    padding-bottom: 50px;
+}
+.all .cc .fff h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 25px;
+}
+.all .cc .fff .fc .h1{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 50px;
+}
+.all .cc .fff .fc .h2{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 380px;
+    margin-top: -85px;
+    
+    
+
+}
+.all .cc .fff .fc .h4{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 700px;
+    margin-top: -150px;
+    color: #ffffff;
+
+}
+.all .cc .fff .fc .h3{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 250px;
+    margin-top: -50px;
+    padding-top: 50px;
+    color: #ffffff;
+
+
+}
+
+
+.all .cc .fff .fc .h1:hover{
+    color: #002b17;
+}
+.all .cc .fff .fc .h2:hover{
+    color: #002b17;
+}
+.all .cc .fff .fc .h4:hover{
+    color: #002b17;
+}
+.all .ca button:hover{
+    background-color: #007451;
+}
+.all .hade .logo a:hover{
+    color: #00927f;
+}
+.all .hade .list a:hover{
+    color: #01757e;
+
+
+
+}
+.all .content .cc .c1:hover{
+    box-shadow: 5px 5px 15px rgba(255, 255, 255, 0.801);
+}
+.all .content .cc .c2:hover{
+    box-shadow: 5px 5px 15px rgba(255, 255, 255, 0.801);
+}
+
+
+
+
+ 
